@@ -1,0 +1,11 @@
+#agregarTareas{
+    width: 30%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: solid 1px black;
+    background-color: chocolate;
+    
+}
+
+body{
+    background-color: bisque;
+}
